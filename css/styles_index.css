@@ -1,0 +1,23 @@
+body {
+  margin: 10px;
+}
+header {
+  margin: 10px;
+}
+ul {
+  list-style: none;
+}
+div.container{
+  width : 20%;
+  margin :5px 20px 5px;
+  border : 1px solid black;
+  float : left;
+}
+#footer{
+  width : 100%;
+  align: center;
+  position: fixed;
+  bottom: 0;
+  left:0;
+
+}
